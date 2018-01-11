@@ -10,8 +10,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	Can use git diff to view changes between working directory and staging area to ensure all changes fit within '1 logical change'. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	Branches can be used to work on changes without affecting the master, so could be useful if you aren't sure you definitely want to implement the changes. May also be useful if there is a team of people each working on a new feature - they can work independantly on a branch and then merge them when complete
 
 How do the diagrams help you visualize the branch structure?
 
