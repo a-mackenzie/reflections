@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Allows you to work on changes without affecting the master. Multiple changes can be worked on concurrently by different people and only added to master when ready. Keeps master branch as working code without unfinished features etc.
